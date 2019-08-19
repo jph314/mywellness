@@ -6,4 +6,4 @@ An analysis into data taken from the mywellness system at Contours Gym, The Stou
 
 It uses various Python libraries to arrange the data, perform simple calculations, create predictive models and graph the data. 
 
-The full technical analysis can be found in First Month MOVEs and Days.html (First Month MOVEs and Days.ipynb), while a largely non-technical report can be read in mywellness analysis.
+The full technical analysis can be found in 'First Month MOVEs and Days.html' ('First Month MOVEs and Days.ipynb'), while a largely non-technical report can be read in 'mywellness analysis - the first month and chances of continuing.pdf'.
